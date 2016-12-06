@@ -3,3 +3,6 @@ body {
 	background-size: cover;
 	font-family: Helvetica;
 }
+.nav {
+	text-align: right;
+}
