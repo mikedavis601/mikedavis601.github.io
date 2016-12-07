@@ -1,14 +1,22 @@
 body {
-	background-image: url(images/handwheader3.jpg);
+	background-image: url(../images/theartistheader.jpg);
 	background-size: cover;
 	font-family: Helvetica;
 }
 
-.nav {
+ul {
+	font-family: Helvetica;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 	text-align: right;
 }
 
-#slogan {
-	text-align: center;
+li{
+	display: inline;
 }
 
+#slogan {
+	color: black;
+	text-decoration: underline;
+}
