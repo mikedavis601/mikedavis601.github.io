@@ -1,6 +1,6 @@
 body {
-	background-image: url(../images/theartistheader.jpg);
-	background-size: cover;
+	background-color: white;
+	color: black;
 	font-family: Helvetica;
 }
 
@@ -20,3 +20,35 @@ li{
 	color: black;
 	text-decoration: underline;
 }
+
+#hwabout {
+	color: black;
+	text-align: left;
+}
+
+#artistabout {
+	border-radius: 8px;
+	height: 600px;
+	width: 600px;
+}
+
+#cat1 {
+	height: 400px;
+	width: 300px;
+}
+
+#dog1 {
+	height: 400px;
+	width: 300px;
+}
+
+#cat1 {
+	height: 400px;
+	width: 300px;
+}
+
+#dog2 {
+	height: 400px;
+	width: 300px;
+}
+
